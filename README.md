@@ -254,4 +254,4 @@ This repository serves as the official landing page for WinToHDD. The software i
 **Get the most recent version of WinToHDD today!**
 
 ---
-**Last updated:** 2026-10-14 12:40:47 UTC
+**Last updated:** 2026-10-14 17:42:51 UTC
